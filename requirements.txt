@@ -1,0 +1,5 @@
+numpy==1.24.3
+pandas==2.1.1
+pyarrow==13.0.0
+azure-storage-blob==12.14.1
+
